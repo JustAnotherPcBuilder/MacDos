@@ -1,0 +1,5 @@
+select volume
+clean
+create part pri
+FORMAT FS=FAT32 LABEL="EFI" QUICK
+assign letter=
